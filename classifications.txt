@@ -1,0 +1,20 @@
+Sum of rating
+Good-3162-31.62%
+Bad-594-5.94%
+Neutral-6244-62.44%
+
+Largest share
+Good-306-3.06%
+Bad-49-0.49%
+Neutral-9645-96.45%
+
+Mixed grades
+Good-3793-37.93%
+Bad-1186-11.86%
+Neutral-5021-50.21%
+
+Classification by most common words
+Good-2201-22.01%
+Bad-548-5.48%
+Neutral-7251-72.51%
+
